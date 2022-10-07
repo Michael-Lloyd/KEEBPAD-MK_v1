@@ -1,0 +1,13 @@
+# Ignore everything
+* 
+
+# Except... 
+!.gitignore
+!lib
+!lib/**
+!sch
+!sch/**
+!fp-info-cache
+!fp-lib-table 
+!KEEBPAD-MK.kicad_*
+!sym-lib-table
