@@ -637,7 +637,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 5173651e-1bb0-4757-88ed-9af9fc6afe5c)
   )
-  (label "$.GPIO_{16}" (at 68.58 74.93 180)
+  (label "$.GPIO_{20}" (at 68.58 74.93 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 519d7235-099b-48ca-8826-f100eeb21a3d)
   )
