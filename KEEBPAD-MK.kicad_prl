@@ -69,19 +69,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "KEEBPAD-MK.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 960,
-          "pos_y": 18,
-          "size_x": 1280,
-          "size_y": 720
-        }
-      }
-    ]
+    "files": []
   }
 }
